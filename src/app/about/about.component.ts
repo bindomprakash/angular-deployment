@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AboutComponent {
   constructor(){
-     console.log("About us component load");
+     console.log("About component load");
   }
 }
